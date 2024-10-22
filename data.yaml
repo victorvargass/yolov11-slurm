@@ -1,0 +1,13 @@
+path: /home/victorvargass/yolov11/datasets/fusa_roads
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  - 2_ruedas
+  - liviano
+  - med_pesado
+  - pesado
+  - bicicleta
+  - autobus
+nc: 6
